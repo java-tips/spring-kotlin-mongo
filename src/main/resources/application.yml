@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: user
+      password: pass
+      database: kotlin
+      port: 27017
+      host: localhost
+
+  jackson:
+    serialization:
+      fail_on_empty_beans: false
+      write_dates_as_timestamps: false
