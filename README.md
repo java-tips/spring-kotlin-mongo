@@ -1,5 +1,6 @@
 # spring-kotlin-mongo
-[![CircleCI](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master.svg?style=svg)](https://circleci.com/gh/spring-kotlin-mongo/tree/master)
+[![CircleCI](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master.svg?style=svg)](https://circleci.com/gh/spring-kotlin-mongo/tree/master) \
+[![CircleCI](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master.svg?style=shield)](https://circleci.com/gh/spring-kotlin-mongo/tree/master)
 \
 This is a Kotlin application with spring-boot and MongoDB. \
 Kotlin in the backend provides less code and is easy to build. \
