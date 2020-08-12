@@ -1,0 +1,27 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 8080:8080
+    networks:
+      - mongo-network
+    depends_on:
+      - database
+
+  database:
+    restart: unless-stopped
+    image: mongo:4.2
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: user
+      MONGO_INITDB_ROOT_PASSWORD: pass
+    ports:
+      - 27017:27017
+    networks:
+      - mongo-network
+
+networks:
+  mongo-network:
+    driver: bridge
