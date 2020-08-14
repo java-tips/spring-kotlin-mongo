@@ -4,8 +4,8 @@
 \
 This is a Kotlin application with spring-boot and MongoDB. \
 Kotlin in the backend provides less code and is easy to build. \
-You can take a look on official documentation on https://kotlinlang.org/docs/reference/server-overview.html \
-It is very easy to use that. Below I'll show you how you can build your application. \
+You can take a look at the official documentation https://kotlinlang.org/docs/reference/server-overview.html \
+It is very easy to use that. Below I'll show you how you can build the application. \
 \
 \
 Build and Start: \
