@@ -1,6 +1,8 @@
 # spring-kotlin-mongo
-[![CircleCI](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master.svg?style=svg)](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master) \
+[![CircleCI](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master.svg?style=svg)](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master) 
 [![CircleCI](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master.svg?style=shield)](https://circleci.com/gh/java-tips/spring-kotlin-mongo/tree/master)
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6ImphdmEtdGlwcyIsInJlcG8xIjoic3ByaW5nLWtvdGxpbi1tb25nbyIsImluY2x1ZGVMaW50IjpmYWxzZSwiYXV0aG9ySWQiOjIzNDM4LCJpYXQiOjE2MDE2NDI0NTl9.PIRggL0XT093JBBcowceF8Q93oxOPmkMS-rb6-Z-j-s)](https://www.deepcode.ai/app/gh/java-tips/spring-kotlin-mongo/_/dashboard?utm_content=gh%2Fjava-tips%2Fspring-kotlin-mongo)
+\
 \
 This is a Kotlin application with spring-boot and MongoDB. \
 Kotlin in the backend provides less code and is easy to build. \
